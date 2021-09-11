@@ -6,7 +6,7 @@ for this task we were given 50,000 images of star or galaxy crop images from ast
 
 the filter data are standard Sloan digital Sky Survey (SDSS) photometric filters, the g band and r band are considered visual spectrum, where i band and z band are in the near infrared spectrum.<br>
 
-![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/SDSS.jpg =100x200)
+![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/SDSS.jpg)
 
 
 
