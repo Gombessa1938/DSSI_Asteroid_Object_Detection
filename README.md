@@ -13,5 +13,8 @@ g band example: <br>
 psf-g band example: <br>
 ![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/psfg.png)<br>
 
+We tried couple CNN architectures, the best performing model we had great accuracy and great AUC score.<br>
+<img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/cnn_elyssa_model.PNG" width="800"><br>
 
+<img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/sta_gal_result.PNG" width="800">
 **project 2: detect asteroids from difference images**<br>
