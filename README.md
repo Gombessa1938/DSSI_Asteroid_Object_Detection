@@ -15,6 +15,8 @@ psf-g band example: <br>
 
 We tried couple CNN architectures, the best performing model we had great accuracy and great AUC score.<br>
 <img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/cnn_elyssa_model.PNG" width="500"><br>
-<img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/confusion_matrix.png" width="500"><br>
+<img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/confusion_matrix.png" width="300"><br>
+
+
 
 **project 2: detect asteroids from difference images**<br>
