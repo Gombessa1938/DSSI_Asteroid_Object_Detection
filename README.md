@@ -9,9 +9,9 @@ the filter data are standard Sloan digital Sky Survey (SDSS) photometric filters
 ![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/SDSS.jpg)
 
 g band example: <br>
-![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/g.png)
+![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/g.png)<br>
 psf-g band example: <br>
-![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/psfg.png)
+![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/img/psfg.png)<br>
 
 
 **project 2: detect asteroids from difference images**<br>
