@@ -20,4 +20,6 @@ We tried couple CNN architectures, the best performing model we had great accura
 
 
 **project 2: detect asteroids from difference images**<br>
-![](https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/Joe/result/result17.png)
+
+<img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/Joe/result/result17.png" width="500"><br>
+
