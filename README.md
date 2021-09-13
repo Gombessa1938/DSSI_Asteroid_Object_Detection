@@ -21,5 +21,17 @@ We tried couple CNN architectures, the best performing model we had great accura
 
 **project 2: detect asteroids from difference images**<br>
 
+this project we are given astronomy difference images,(explain )<br>
+
+the asteroids in those images are artifically injected with galsim. there are each 20 asteroids per images. <br>
+
+
+traditional CNN : 
+
+Fast-R
+
+YOLO: 
+
+
 <img src="https://github.com/ethanahlquist/DSSI_Asteroid_Object_Detection/blob/main/Joe/result/result17.png" width="500"><br>
 
