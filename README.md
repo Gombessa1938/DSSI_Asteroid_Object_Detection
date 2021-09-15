@@ -21,7 +21,9 @@ We tried couple CNN architectures, the best performing model we had great accura
 
 **project 2: detect asteroids from difference images**<br>
 
-this project we are given astronomy difference images,(explain )<br>
+this project we are given astronomy difference images<br>
+
+astronomy difference image is made from two exposure subtracting each other, the telescope track certain object in the sky, while most star are orbiting the same speed, asteroid or satellite will orbit in different speed compare to the stars, so by subtracting two frames, we can see what is moving in different velocity and thus determin if this is an asteroid or satellite or even comet.  Pluto was discovered this way as well  
 
 the asteroids in those images are artifically injected with galsim. there are each 20 asteroids per images. <br>
 
